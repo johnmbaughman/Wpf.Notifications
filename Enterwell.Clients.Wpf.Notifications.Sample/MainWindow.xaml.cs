@@ -18,8 +18,7 @@ namespace Enterwell.Clients.Wpf.Notifications.Sample
             this.InitializeComponent();
             this.DataContext = this;
         }
-
-
+        
         private void ButtonBaseErrorOnClick(object sender, RoutedEventArgs e)
         {
             this.Manager

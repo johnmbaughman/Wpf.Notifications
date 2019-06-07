@@ -318,11 +318,11 @@ namespace Enterwell.Clients.Wpf.Notifications
                 default:
                     { break; }
             }
-            
+
 
             return builder;
         }
-        
+
         /// <summary>
         /// Sets the foreground brush.
         /// </summary>
